@@ -1,0 +1,6 @@
+F:\学习资料\编译原理\LL(1)\LL(1)\bin\Debug\LL(1).exe.config
+F:\学习资料\编译原理\LL(1)\LL(1)\bin\Debug\LL(1).exe
+F:\学习资料\编译原理\LL(1)\LL(1)\bin\Debug\LL(1).pdb
+F:\学习资料\编译原理\LL(1)\LL(1)\obj\Debug\LL(1).csprojResolveAssemblyReference.cache
+F:\学习资料\编译原理\LL(1)\LL(1)\obj\Debug\LL(1).exe
+F:\学习资料\编译原理\LL(1)\LL(1)\obj\Debug\LL(1).pdb
